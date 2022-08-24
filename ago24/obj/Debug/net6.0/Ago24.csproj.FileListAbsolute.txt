@@ -1,0 +1,15 @@
+C:\Users\Adm\Desktop\dotnet hoje\ago24\bin\Debug\net6.0\Ago24.exe
+C:\Users\Adm\Desktop\dotnet hoje\ago24\bin\Debug\net6.0\Ago24.deps.json
+C:\Users\Adm\Desktop\dotnet hoje\ago24\bin\Debug\net6.0\Ago24.runtimeconfig.json
+C:\Users\Adm\Desktop\dotnet hoje\ago24\bin\Debug\net6.0\Ago24.dll
+C:\Users\Adm\Desktop\dotnet hoje\ago24\bin\Debug\net6.0\Ago24.pdb
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.csproj.AssemblyReference.cache
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.AssemblyInfoInputs.cache
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.AssemblyInfo.cs
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.dll
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\refint\Ago24.dll
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.pdb
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\Ago24.genruntimeconfig.cache
+C:\Users\Adm\Desktop\dotnet hoje\ago24\obj\Debug\net6.0\ref\Ago24.dll
